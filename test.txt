@@ -9,9 +9,5 @@ dev branch
 
 111
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 solving bug!
-=======
->>>>>>> Stashed changes
 my working in continue....
