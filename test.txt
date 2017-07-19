@@ -9,4 +9,6 @@ dev branch
 
 111
 
+<<<<<<< Updated upstream
 solving bug!
+my working in continue....
